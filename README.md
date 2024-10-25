@@ -1,6 +1,7 @@
 # 🪂 Can Demirci
 
 **`Front-End Developer`**
+
 I'm a passionate Frontend Developer with hands-on experience in building responsive, user-friendly applications. Currently studying Computer Programming at Anadolu University in Turkey, I’m dedicated to expanding my skills, particularly in React.js, as I work towards creating seamless web experiences.
 
 ---
